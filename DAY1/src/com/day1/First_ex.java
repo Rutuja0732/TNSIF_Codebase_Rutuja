@@ -17,19 +17,20 @@ public class First_ex {
 	          
 	          /*starting with the dataTypes
 	           * 1.Primitive : These data types have fixed memory spaces and memory ranges.
-	           * a) Number: Integer
-	           * 1) byte : 1byte
-	           * 2)short : 2bytes
-	           * 3)int   : 4bytes
-	           * 4)long  : 8bytes
-	           *
-	           * b)decimal
-	           * float : 4bytes
-	           * double: 8bytes
-	           * 
-	           * c)character: 2bytes
-	           * 
-	           * d) Boolean : 1byte
+	           
+	            a) Number: Integer
+	            1)byte : 1byte
+	            2)short : 2bytes
+	            3)int   : 4bytes
+	            4)long  : 8bytes
+	           
+	            b)decimal
+	            float : 4bytes
+	            double: 8bytes
+	            
+	            c)character: 2bytes
+	            
+	            d) Boolean : 1byte
 	           */
 	          
 	          //byte: 1 byte = 8bits     2^8
@@ -56,11 +57,12 @@ public class First_ex {
 	          System.out.println(num);
 	          
 	          //float : 4 byte: while assigning float value write'f' at the end of value
-	          float maxFloat=3234.14124512345678902345678914f;
-	          float minFloat=3456.14124512345678902345678914f;
-	          
 	          //double: 8 bytes: while assigning double value write'd' at the end of value
-	          double max=345.6d;
+	          
+	          float f=3234.141243278345f;
+	  		  double d=3456.14124512345678902345678914f;
+
+	         
 	          
 	          
 	          //c)character: 2bytes:  it takes a single input and which has to be given in a single inverted coma i.e '  '
