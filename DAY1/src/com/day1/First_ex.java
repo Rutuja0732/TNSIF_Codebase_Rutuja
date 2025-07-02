@@ -75,14 +75,15 @@ public class First_ex {
 	        	
 	          
 	          // Typecasting 
-	          
 	          //implicit typecasting (widening)
+	          
 	          byte num1 =1;
 	          int i =num1;
 	          System.out.println("......Its wideninening or implicit type casting where we convert from smaller to larger datatype"+i);
 	          
 	          
 	          //explicit typecasting (narrowing)
+	          
 	          double f1= 10.52d;
 	          long ll=(long) (f1);
 	          System.out.println("........In explicit typecasting or narrowing we convert the larger datatype into smaller one forcefully"+ll);
