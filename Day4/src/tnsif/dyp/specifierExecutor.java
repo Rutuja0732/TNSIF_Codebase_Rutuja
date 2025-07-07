@@ -1,6 +1,6 @@
 package tnsif.dyp;
 
-public class Executor {
+public class specifierExecutor {
 
 	public static void main(String[] args) {
 		specifierEg s1=new specifierEg();
