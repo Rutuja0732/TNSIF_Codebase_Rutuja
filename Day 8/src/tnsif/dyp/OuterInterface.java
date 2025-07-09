@@ -1,10 +1,11 @@
 package tnsif.dyp;
 
-public class OuterInterface {
-	
+
+public interface OuterInterface {
 	void calArea();
 	interface InnerInterfac{
 		void show();
 	}
 
 }
+
