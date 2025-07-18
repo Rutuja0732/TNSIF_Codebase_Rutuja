@@ -1,0 +1,46 @@
+[
+    {
+      "title": "Barish",
+      "artist": "Unknown Artist",
+      "file": "assets/barish.mp3",
+      "image": "assets/images.jpg"
+    },
+    {
+      "title": "Kaun Tujhe",
+      "artist": "Unknown Artist",
+      "file": "assets/kaun_tujhe.mp3",
+      "image": "assets/images.jpg"
+    },
+    {
+      "title": "Mahiya Tu Wada Kar",
+      "artist": "Unknown Artist",
+      "file": "assets/mahiya_tu_wada_kar.mp3",
+      "image": "assets/mahiya_vada.png"
+    },
+    {
+      "title": "Mann Mera",
+      "artist": "Unknown Artist",
+      "file": "assets/mann_mera.mp3",
+      "image": "assets/images.jpg"
+    },
+    {
+      "title": "Ok Janu",
+      "artist": "Unknown Artist",
+      "file": "assets/ok_janu_track.mp3",
+      "image": "assets/okjanu.png"
+    },
+    {
+      "title": "Suno Aisha",
+      "artist": "Unknown Artist",
+      "file": "assets/suno_aisha.mp3",
+      "image": "assets/images.jpg"
+    },
+    {
+      "title": "Teri Dewani",
+      "artist": "Unknown Artist",
+      "file": "assets/teri_dewani.mp3",
+      "image": "assets/teridewani.png"
+    }
+    
+  ]
+  
